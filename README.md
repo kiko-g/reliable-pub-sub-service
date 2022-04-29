@@ -1,13 +1,8 @@
-# SDLE Project 1
+# Reliable Pub Sub Service
 
-SDLE [Project 1](https://web.fe.up.pt/~pfs/aulas/sdle2021/projs/proj1.html) for group T4G12.
+## Documentation
 
-Group members:
-
-1. Francisco Goncalves (up20174790@edu.fe.up.pt)
-2. Inês Quarteu (up201806279@edu.fe.up.pt)
-3. Jéssica Nascimento (up201806723@edu.fe.up.pt)
-4. Rúben Almeida (up201704618@edu.fe.up.pt)
+This section is the README inside the [docs](docs) folder.
 
 ## Requirements
 
@@ -61,3 +56,11 @@ python src/client.py 4
 ## Description
 
 Project guide [here](https://web.fe.up.pt/~pfs/aulas/sdle2021/projs/proj1.html)
+
+
+## Team
+
+1. [Francisco Goncalves](https.github.com/kiko-g)
+2. [Inês Quarteu](https.github.com/InesQuarteu)
+3. [Jéssica Nascimento](https.github.com/)
+4. [Rúben Almeida](https.github.com/arubenruben)
